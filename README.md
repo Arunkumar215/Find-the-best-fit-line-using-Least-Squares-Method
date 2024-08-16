@@ -24,6 +24,7 @@ Developed by: Arunkumar S A
 RegisterNumber: 212223220009 
 */
 ```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
